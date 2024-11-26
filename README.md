@@ -1,2 +1,8 @@
-# Bachelor-s-Thesis
-Final Year Project for the Bachelor's Degree in Electronic, Robotics, and Mechatronics Engineering.
+Planificación reactiva de caminos mediante persecución pura en coche a escala utilizando ROS y Gazebo
+
+<!-- IDIOMAS ------------------------------------------------------------------------------------------------------------------->
+<div>
+    <p align="left">
+        <a href="/README-en.md">English<a> · <b>Español</b>
+    </p>
+</div>
