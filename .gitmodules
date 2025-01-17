@@ -1,0 +1,12 @@
+[submodule "catkin_racecar/src/racecar"]
+	path = catkin_racecar/src/racecar
+	url = https://github.com/mit-racecar/racecar.git
+[submodule "catkin_racecar/src/racecar_gazebo"]
+	path = catkin_racecar/src/racecar_gazebo
+	url = https://github.com/mit-racecar/racecar_gazebo.git
+[submodule "catkin_racecar/src/vesc"]
+	path = catkin_racecar/src/vesc
+	url = https://github.com/mit-racecar/vesc.git
+[submodule "catkin_racecar/src/razor_imu_9dof"]
+	path = catkin_racecar/src/razor_imu_9dof
+	url = https://github.com/ENSTABretagneRobotics/razor_imu_9dof.git
